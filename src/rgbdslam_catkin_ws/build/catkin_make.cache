@@ -1,0 +1,2 @@
+rgbdslam
+-DCATKIN_DEVEL_PREFIX=/home/hungchen/Vrep_Ros_ws/src/rgbdslam_catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/hungchen/Vrep_Ros_ws/src/rgbdslam_catkin_ws/install -G Unix Makefiles

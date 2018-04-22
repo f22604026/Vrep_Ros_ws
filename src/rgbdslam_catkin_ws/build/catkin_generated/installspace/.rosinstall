@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/hungchen/Vrep_Ros_ws/src/rgbdslam_catkin_ws/install/setup.sh

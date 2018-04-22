@@ -1,0 +1,2 @@
+openni_camera/openni_camera:openni_camera/openni_description:openni_camera/openni_launch:pioneer_p3dx:rgbdslam_catkin_ws/src/rgbdslam:ros_bubble_rob2:teleop_twist_keyboard:v_repExtRosInterface:vrep_plugin_skeleton:vrep_skeleton_msg_and_srv
+-DCATKIN_DEVEL_PREFIX=/home/hungchen/Vrep_Ros_ws/devel -DCMAKE_INSTALL_PREFIX=/home/hungchen/Vrep_Ros_ws/install -G Unix Makefiles
